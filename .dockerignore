@@ -1,0 +1,7 @@
+./*Dockerfile
+./env_ch_builder
+./resources/train
+./resources/test
+./resources/test_video.mp4
+./template
+./__pycache__

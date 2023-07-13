@@ -1,0 +1,4 @@
+resources/
+env_ch_builder/
+__pycache__/
+template/
