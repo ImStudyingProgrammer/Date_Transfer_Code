@@ -27,13 +27,14 @@ If you would like to run the program in a container. There is the dockerfiles `i
 Transfer the images between host and raspberry pi (OS: ubuntu 22.04).
 * Running without container
 
-![Hosts_20230713_183802](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/25094738/f7e5304c-3f37-4adb-83cc-794212e1c48f =480x240)
-![Hosts_20230713_183846](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/25094738/2ac45cfd-6822-4a7c-8e71-f95e93618fcf)
+![Hosts_Start](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183802.png =480x240)
+![Hosts_Image_Transfer](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183846.png =480x240)
+
 * Running with container
 
-![Containers_20230713_184110](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/25094738/a3a77125-11b8-4327-adb4-29bf87ffcebd)
-![Containers_20230713_184138](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/25094738/0030fe1e-073b-45ee-bf1f-91d9965b5d0e)
-![Containers_20230713_184202](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/25094738/2c133417-060e-433c-a030-113e423eee71)
+![Containers_Start](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184110.png =480x240)
+![Containers_Server_Logs](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184138.png =480x240)
+![Containers_Images_In_Server](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184202.png =480x240)
 
 
 
