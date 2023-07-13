@@ -33,7 +33,7 @@ Transfer the images between host and raspberry pi (OS: ubuntu 22.04).
 
 * Running with container
 
-![Containers_Start](assets/Containers_20230713_184110.png =480x240)
+![Containers_Start](assets/Containers_20230713_184110.png)
 
 ![Containers_Server_Logs](https://raw.githubusercontent.com/maskertim/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184138.png =480x240)
 
