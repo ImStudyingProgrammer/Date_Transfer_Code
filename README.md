@@ -28,12 +28,15 @@ Transfer the images between host and raspberry pi (OS: ubuntu 22.04).
 * Running without container
 
 ![Hosts_Start](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183802.png =480x240)
+
 ![Hosts_Image_Transfer](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183846.png =480x240)
 
 * Running with container
 
-![Containers_Start](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184110.png =480x240)
-![Containers_Server_Logs](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184138.png =480x240)
+![Containers_Start](assets/Containers_20230713_184110.png =480x240)
+
+![Containers_Server_Logs](https://raw.githubusercontent.com/maskertim/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184138.png =480x240)
+
 ![Containers_Images_In_Server](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184202.png =480x240)
 
 
