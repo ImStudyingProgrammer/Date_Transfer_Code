@@ -27,17 +27,17 @@ If you would like to run the program in a container. There is the dockerfiles `i
 Transfer the images between host and raspberry pi (OS: ubuntu 22.04).
 * Running without container
 
-![Hosts_Start](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183802.png =480x240)
+<img alt="host start" src="assets/Hosts_20230713_183802.png" width="640" height="400">
 
-![Hosts_Image_Transfer](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Hosts_20230713_183846.png =480x240)
+<img alt="host image transfer" src="assets/Hosts_20230713_183846.png" width="640" height="400">
 
 * Running with container
 
-<img src="assets/Containers_20230713_184110.png" width="480" height="240">
+<img alt="container start" src="assets/Containers_20230713_184110.png" width="640" height="400">
 
-![Containers_Server_Logs](https://raw.githubusercontent.com/maskertim/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184138.png =480x240)
+<img alt="container server logs" src="assets/Containers_20230713_184138.png" width="640" height="400">
 
-![Containers_Images_In_Server](https://github.com/ImStudyingProgrammer/Image_Transfer_Code/assets/Containers_20230713_184202.png =480x240)
+<img alt="container image files in server" src="assets/Containers_20230713_184202.png" width="640" height="400">
 
 
 
