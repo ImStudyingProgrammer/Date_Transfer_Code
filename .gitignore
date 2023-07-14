@@ -1,4 +1,7 @@
-resources/
-env_ch_builder/
-__pycache__/
-template/
+image_transfer_code/resources/
+image_transfer_code/env_ch_builder/
+image_transfer_code/__pycache__/
+image_transfer_code/template/
+data_transfer_code/__pycache__
+data_transfer_code/test/test_data/
+data_transfer_code/env_data_trans/
